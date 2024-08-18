@@ -1,5 +1,6 @@
 /*  your css code here. If applicable */
-.input + label{
+.input + label, .input{
 	color:rgb(255, 0, 0);
+	/* color:rgb(84,84,84) */
 	
 }
