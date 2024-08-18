@@ -15,6 +15,9 @@ for(let i = 0; i<6; i++){
 	if(i == 1){
 		radio.disabled = true;
 	}
+	if(i==2){
+		radio.checked=true;
+	}
 	
 	div.append(radio,label,br);
 }
